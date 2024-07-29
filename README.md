@@ -1,6 +1,4 @@
-## Hi there 👋
-<img align="right" alt="coding" width="400" src="https://www.canva.com/design/DAGMUUUdIPk/EvshreJaqeBR_V3LUyQsLQ/view?utm_content=DAGMUUUdIPk&utm_campaign=designshare&utm_medium=link&utm_source=editor"/>
-
+![logo](https://github.com/Pawan2206/Pawan2206/blob/main/Baneer.jpg)
 <h1 align="center">Hi 👋, I'm Pawan Kumar Gupta</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
