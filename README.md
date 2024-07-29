@@ -14,7 +14,7 @@
 
 - 🤝3. My Projects is Movies Searching App [Movies Searching App](https://movies-searching-ap.netlify.app/)
 
-- - 👨‍💻 All of my projects are available at [https://pawan-portf.netlify.app/](https://pawan-portf.netlify.app/)
+- - 👨‍💻 All of my projects are available at [https://pawan-port-app.netlify.app/](https://pawan-port-app.netlify.app/)
 
 - 💬 Ask me about **HTML, HTML5, CSS, JS, REACT, BOOTSTRAP**
 
