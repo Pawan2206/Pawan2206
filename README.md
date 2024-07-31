@@ -49,12 +49,13 @@
   />
 </p>
 
+ 
 <p>
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=pawan2206&show_icons=true&locale=en"
     alt="pawan2206"
-    style="height: 190px;"
+    style="height: 150px;"
   />
 </p>
 
