@@ -45,11 +45,18 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan2206&show_icons=true&locale=en&layout=compact"
     alt="pawan2206"
-    style="height: 200px; widtht: 50px;"
+    style="height: 200px;"
   />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawan2206&show_icons=true&locale=en" alt="pawan2206" /></p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=pawan2206&show_icons=true&locale=en"
+    alt="pawan2206"
+    style="height: 200px;"
+  />
+</p>
 
 <p>
   <img
