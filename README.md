@@ -14,13 +14,18 @@
 
 - 🤝3. My Projects is Movies Searching App [Movies Searching App](https://movies-searching-ap.netlify.app/)
 
-- - 👨‍💻 All of my projects are available at [https://pawan-portf.netlify.app/](https://pawan-portf.netlify.app/)
+- - 👨‍💻 All of my projects are available at  <a href="https://pawan-portf.netlify.app/" className="portfolio-button" target="_blank">
+      See My Portfolio
+    </a>
 
-- 💬 Ask me about **HTML, HTML5, CSS, JS, REACT, BOOTSTRAP**
+- 💬 Ask me about **HTML, CSS, JS, REACT, BOOTSTRAP, Redux, Node.js**
 
 - 📫 How to reach me **pawankumargupta816@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a8d6546e6b499ee33fd54b](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a8d6546e6b499ee33fd54b)
+- 📄 Know about my experiences <a
+      href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a8d6546e6b499ee33fd54b" className="Resume-button" target="_blank">
+      See My Resume
+    </a>
 
 - ⚡ Fun fact **I am funny**
 
