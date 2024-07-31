@@ -64,6 +64,6 @@
     align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=pawan2206&"
     alt="pawan2206"
-    style="height: 160px; width: 430px;"
+    style="height: 160px; width: 400px;"
   />
 </p>
