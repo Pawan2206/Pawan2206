@@ -1,4 +1,6 @@
 ![logo](https://github.com/Pawan2206/Pawan2206/blob/main/Your%20paragraph%20text.png)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pawan2206&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <h1 align="center">Hi 👋, I'm Pawan Kumar Gupta</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
